@@ -9,7 +9,7 @@ app.config(function($routeProvider) {
 	})
 	.when("/tab3", {
 		templateUrl : "partials/tab3.html"
-	});
+	})
 	.when("/tab4", {
 		templateUrl : "partials/tab4.html"
 	});
