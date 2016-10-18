@@ -5,7 +5,7 @@ body {
 }
 
 a {
-	width: 10px 5%;
+	padding: 21px 5%;
 	color: #fff;
 	background-color: #333;
 	text-decoration: none;
@@ -17,6 +17,6 @@ a:hover, a:active {
 div {
 	color: #fff;
 	background-color: #222;
-	max-width: 750px;
+	max-width: 859px;
 	margin: 0 auto;
 }
